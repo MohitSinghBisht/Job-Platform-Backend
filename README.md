@@ -108,12 +108,3 @@ Licensed under the **MIT License**.
 See the [LICENSE](./LICENSE) file for full details.
 
 ---
-
-## 📌 Optional: Add Badges (if desired)
-
-You can customize these with your own links:
-```markdown
-![Java](https://img.shields.io/badge/Java-17-blue.svg)
-![Angular](https://img.shields.io/badge/Angular-17-red.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-```
